@@ -1,0 +1,53 @@
+
+    
+
+h1{
+    background-color: rgb(255, 0, 85);
+    text-align: end;
+}
+#First{
+    
+    color: blue;
+    top: 50px;
+    position: absolute;
+    left: 20px;
+    background-color: yellow;
+    border-width: 5px;
+    border-color: blue;
+    border-spacing: 2px;
+    border-style: groove;
+    
+}
+
+.list{
+     scrollbar-base-color: orangered;
+     
+}
+a:hover
+{
+    background-color: blueviolet;
+}
+
+#fuck
+{
+    top: 100px;
+    left: 130px;
+    position: absolute;
+}
+#off{
+    left:250px;
+    
+    position: absolute;
+}
+
+#off:first-letter{
+    font-style: italic;
+    color: rgb(148, 14, 14);
+}
+
+#article{
+    top: 450px;
+    left: 300px;
+    position: absolute;
+    
+}
