@@ -38,7 +38,7 @@ button{
     outline: none;
 }
 
-button :hover{
+button:hover{
     background-color: purple;
     color: palevioletred;
 }
